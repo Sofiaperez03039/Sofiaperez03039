@@ -44,8 +44,8 @@ global.packname = '【 เαɳ ɓσƭ - MƊ 】'
 global.botname = 'Iαɳ Bσƚ - MD'
 global.wm = 'Bσƚ ιαɳ MD - ιαɳαʅҽʝαɳԃɾσσƙ15x'
 global.author = 'ιαɳαʅҽʝαɳԃɾσσƙ15x 🌸'
-global.dev = 'Pσɯҽɾҽԃ Bყ Iαɳ 🌙'
-global.textbot = 'Iαɳ Bσƚ : Iαɳαʅҽʝαɳԃɾσσƙ15x'
+global.dev = 'Pσɯҽɾҽԃ ℜ𝔦𝔞𝔰 𝔊𝔯𝔢𝔪𝔬𝔯𝔶 𝔅𝔬𝔱ɳ 🌙'
+global.textbot = 'riasɳ gremoryƚ : Iαɳαʅҽʝαɳԃɾσσƙ15x'
 global.vs = '3.0.4'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -68,7 +68,7 @@ global.channel = 'https://wa.me/573142917345'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "https://wa.me/qr/CWBMIST6LAIQO1" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '✨️ ℜ𝔦𝔞𝔰 𝔊𝔯𝔢𝔪𝔬𝔯𝔶 𝔅𝔬𝔱🌸', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "https://wa.me/qr/CWBMIST6LAIQO1" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '✨️ ℜ𝔦𝔞𝔰 𝔊𝔯𝔢𝔪𝔬𝔯𝔶 𝔅𝔬𝔱🌸', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: 'https://wa.me/573142917345'}}}
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
