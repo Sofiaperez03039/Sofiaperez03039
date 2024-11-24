@@ -61,14 +61,14 @@ global.ianurl = fs.readFileSync('./storage/img/ianurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/KiJY7gZS17aLcP6qaGatFX'
-global.grupo2 = 'https://chat.whatsapp.com/JJGQs5aCsTsAsHbw752fBv'
-global.grupo3 = 'https://chat.whatsapp.com/G2bAsa8E11mLLitGxI0iUQ'
-global.channel = 'https://whatsapp.com/channel/0029VajkZ6bIXnlwPZmbuH1u'
+global.grupo = 'https://whatsapp.com/channel/0029VaxW5nI7oQhdVqGGjK46'
+global.grupo2 = 'https://chat.whatsapp.com/C6EaaFF1BEi0PUOAs3Va9Q'
+global.grupo3 = 'https://chat.whatsapp.com/EWRjF3UsgEIFaLhxVLBb7u'
+global.channel = 'https://wa.me/573142917345'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '✨️ 𝗜𝗮𝗻 𝗕𝗼𝘁 🌸', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '✨️ ℜ𝔦𝔞𝔰 𝔊𝔯𝔢𝔪𝔬𝔯𝔶 𝔅𝔬𝔱🌸', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
